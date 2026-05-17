@@ -1,4 +1,4 @@
-# GeoFS-addon
+# GeoFS-addon Overhead
 L'addon "Overhead Addon-GeoFS" est un addon qui rajoute un overhead panel semi-fonctionnel (les boutons sont cliquables mais n'ont pas d'incidence sur le jeu).
 
 L'overhead panel contient:
